@@ -1,7 +1,5 @@
 # Embbeded-Deep-Learning
-Object Classiﬁcation On raspbarry Pi using Tensorﬂow lite 
-
-[project report](https://drive.google.com/file/d/1o5JNR3o1yi9IWa32AfO_ndH6luRugtNk/view?usp=sharing)
+Object Classiﬁcation On raspbarry Pi using Tensorﬂow lite [project report](https://drive.google.com/file/d/1o5JNR3o1yi9IWa32AfO_ndH6luRugtNk/view?usp=sharing)
 
 Basic Convolution and pooling operation on images: [Conv_Filter_Pooling_Tutorial_Scratch.ipynb](https://github.com/dkanzariya/Embbeded-Deep-Learning/blob/master/Conv_Filter_Pooling_Tutorial_Scratch.ipynb)
 
