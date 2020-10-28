@@ -7,7 +7,7 @@ Cat Dog classification: [Cat_Dog.ipynb](https://github.com/dkanzariya/Embbeded-D
 
 Horse Human classification on high resolution images: [Horse_human.ipynb](https://github.com/dkanzariya/Embbeded-Deep-Learning/blob/master/Horse_human.ipynb)
 
-Human detection by transfer learning: [Horse_human.ipynb](https://github.com/dkanzariya/Embbeded-Deep-Learning/blob/master/Horse_human.ipynb)
+Human detection by transfer learning: [Human-nonhuhman_transfer_learn.ipynb](https://github.com/dkanzariya/Embbeded-Deep-Learning/blob/master/Human-nonhuhman_transfer_learn.ipynb)
 
 tensorflow model converted to tflite for low power device: [tf_tflite.ipynb](https://github.com/dkanzariya/Embbeded-Deep-Learning/blob/master/tf_tflite.ipynb)
 
